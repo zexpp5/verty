@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "src/main/java/io/vertx/example/web/vertxbus/amd/webroot/package.json",
+        "src/main/java/io/vertx/example/web/vertxbus/commonjs/webroot/package.json",
+        "src/main/java/io/vertx/example/web/vertxbus/node/package.json",
+        "src/main/java/io/vertx/example/web/vertxbus/webpack/client/package.json"
+      ]
+    }
+  }
+}
