@@ -1,5 +1,7 @@
 = Vert.x-Web examples
 
+image:https://badges.greenkeeper.io/zexpp5/verty.svg[link="https://greenkeeper.io/"]
+
 Here you will find examples demonstrating Vert.x-Web in action.
 
 Vert.x-Web is a tool-kit for writing web applications with Vert.x. Please consult the Vert.x-Web manual for detailed
